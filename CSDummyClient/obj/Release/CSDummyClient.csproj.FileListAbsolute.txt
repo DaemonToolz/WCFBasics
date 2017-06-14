@@ -1,0 +1,6 @@
+C:\Users\macie\Documents\Visual Studio 2017\Projects\DaDTutorial\CSDummyClient\bin\Release\CSDummyClient.exe.config
+C:\Users\macie\Documents\Visual Studio 2017\Projects\DaDTutorial\CSDummyClient\bin\Release\CSDummyClient.exe
+C:\Users\macie\Documents\Visual Studio 2017\Projects\DaDTutorial\CSDummyClient\bin\Release\CSDummyClient.pdb
+C:\Users\macie\Documents\Visual Studio 2017\Projects\DaDTutorial\CSDummyClient\obj\Release\CSDummyClient.csprojResolveAssemblyReference.cache
+C:\Users\macie\Documents\Visual Studio 2017\Projects\DaDTutorial\CSDummyClient\obj\Release\CSDummyClient.exe
+C:\Users\macie\Documents\Visual Studio 2017\Projects\DaDTutorial\CSDummyClient\obj\Release\CSDummyClient.pdb

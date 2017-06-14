@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8f8ba9e2-ee82-4dee-86cc-87423ff78eae" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:18193/MessageBrokerClient.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MessageBrokerClient.wsdl" MetadataType="Wsdl" ID="734510d5-3fcd-454e-afcd-5848f49cafdb" SourceId="1" SourceUrl="http://localhost:18193/MessageBrokerClient.svc?wsdl" />
+    <MetadataFile FileName="MessageBrokerClient2.xsd" MetadataType="Schema" ID="297307aa-2113-45a4-9b9a-716aabc97fa7" SourceId="1" SourceUrl="http://localhost:18193/MessageBrokerClient.svc?xsd=xsd1" />
+    <MetadataFile FileName="MessageBrokerClient.xsd" MetadataType="Schema" ID="c194323a-bfa9-4843-97f7-7c0a2ad9c65d" SourceId="1" SourceUrl="http://localhost:18193/MessageBrokerClient.svc?xsd=xsd0" />
+    <MetadataFile FileName="MessageBrokerClient.disco" MetadataType="Disco" ID="457a4ea5-d449-4323-ae28-7a0ed6bc2008" SourceId="1" SourceUrl="http://localhost:18193/MessageBrokerClient.svc?disco" />
+    <MetadataFile FileName="MessageBrokerClient1.xsd" MetadataType="Schema" ID="5a008a90-1c6f-4827-999b-b8fd487faa70" SourceId="1" SourceUrl="http://localhost:18193/MessageBrokerClient.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
